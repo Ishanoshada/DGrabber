@@ -1,7 +1,7 @@
 # DGrabber
 
 [![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/DGrabber)](https://github.com/Ishanoshada/DGrabber/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Ishanoshada/DGrabber)](https://github.com/Ishanoshada/DGrabber/network)
+[![GitHub forks](https://img.shields.io/github/forks/ishanoshada/DGrabber)](https://github.com/ishanoshada/DGrabber/network)
 [![License](https://img.shields.io/github/license/Ishanoshada/DGrabber)](https://github.com/Ishanoshada/DGrabber/blob/main/LICENSE)
 ## Introduction
 
